@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 12 09:08:07 2019
 
-@author: ahora
+@author: mati fallahi
 """
 
 from lamport import lamport
