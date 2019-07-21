@@ -35,7 +35,7 @@ print('===========================')
 
 
 #Sign vefiry false
-print("Sign vefiry false:")
+print("Sign vefiry tow:")
 sigmassage[22]=sigmassage[22]+1
 result=matin.signatureverify(massage,sigmassage,public)
 print(result)
